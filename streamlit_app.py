@@ -3,7 +3,7 @@ import os
 import google.generativeai as genai
 
 # Configure the API key for Google Generative AI
-genai.configure(api_key='AIzaSyBT4qz_pSZrB8yCqfQeU7jm1YhQYumhDQw')
+genai.configure(api_key='')
 
 
 def persona(input):
